@@ -1,0 +1,24 @@
+{
+  "name": "chess-toreno-i",
+  "version": "1.0.0",
+  "description": "A sample web page for 1st Chess Familiar Tournament",
+  "main": "dev/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.13.1"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.1.1",
+    "bootstrap": "^4.4.1",
+    "gojs": "^2.1.11",
+    "jquery": "^3.4.1"
+  }
+}
