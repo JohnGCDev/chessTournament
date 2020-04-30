@@ -19,6 +19,6 @@
     "@popperjs/core": "^2.1.1",
     "bootstrap": "^4.4.1",
     "gojs": "^2.1.11",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
