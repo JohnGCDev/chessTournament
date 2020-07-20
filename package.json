@@ -10,15 +10,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.26.10",
     "gulp": "^4.0.2",
     "gulp-sass": "^4.0.2",
-    "node-sass": "^4.13.1"
+    "node-sass": "^4.14.1"
   },
   "dependencies": {
     "@popperjs/core": "^2.1.1",
     "bootstrap": "^4.4.1",
     "gojs": "^2.1.11",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.1"
   }
 }
